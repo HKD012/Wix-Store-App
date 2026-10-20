@@ -1,11 +1,19 @@
-# Next.js 15 Wix Headless E-Commerce Store
+# Full-Stack E-Commerce Store
 
-A beautiful and fast e-commerce website built with **Next.js 15** and **Wix Studio Headless APIs**.
+A full-stack headless e-commerce storefront built with Next.js 15 and Wix Headless APIs.
 
-Includes everything an online store needs, like cart management, checkout, user accounts, email automations, and payment provider integration.
+## Features
+- Product catalog with categories and filters
+- Shopping cart and checkout
+- User accounts and order history
+- Payment processing
+- Product image zoom
+- Server-side rendering for SEO
+- Fully responsive UI
 
-Uses Next.js best practices like server-side rendering, URL state, optimistic updates, and more.
-
-Watch the tutorial for free: https://www.youtube.com/watch?v=gr--RC_naa0
-
-![thumbnail](https://github.com/user-attachments/assets/61631ee7-832a-4d2e-82de-396627bb024f)
+## Tech Stack
+- **Framework:** Next.js 15, React 19, TypeScript
+- **Backend:** Wix Headless APIs (stores, ecom, members, media)
+- **Data Fetching:** TanStack Query
+- **Styling:** Tailwind CSS, Radix UI
+- **Validation:** Zod, React Hook Form
